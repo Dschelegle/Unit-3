@@ -31,3 +31,6 @@ li a:hover {
 h3 a:visited {
   color: #ff1a1a;
 }
+figcaption a:visited {
+  color:#ffff00
+}
