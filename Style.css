@@ -1,0 +1,30 @@
+body {background-color: #000099;}
+h1 {color:#ffff00 ;text-align: center;}
+img {display: block;
+margin-left:auto;
+margin-right:auto;}
+h3 {color:#ffff00;}
+p {color:#ffffff;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #33ffff;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ff0000;
+}
